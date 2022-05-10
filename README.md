@@ -1,7 +1,7 @@
 - Hi, I’m @nwright7
 
-- I am a student a Missouri Western State University
-- I am majoring in Computer Science with a concentration of Computer Information Systems
+- I am a computer science graduate from Missouri Western State University
+- I am majored in Computer Science with a concentration of Computer Information Systems
 
 - How to reach me : 
 - email - nmw2018@gmail.com    
